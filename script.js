@@ -35,3 +35,5 @@ function stopSongs() {
     song.currentTime = 0;
   });
 }
+
+//HTML audio API
